@@ -1,0 +1,1 @@
+First you need to setup the database and run the command for seed.
